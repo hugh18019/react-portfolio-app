@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-app/static/css/main.21be3472.chunk.css",
+    "main.js": "/react-portfolio-app/static/js/main.90ca00bc.chunk.js",
+    "main.js.map": "/react-portfolio-app/static/js/main.90ca00bc.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-app/static/js/runtime-main.edb1b1bc.js",
+    "runtime-main.js.map": "/react-portfolio-app/static/js/runtime-main.edb1b1bc.js.map",
+    "static/js/2.70ee96a7.chunk.js": "/react-portfolio-app/static/js/2.70ee96a7.chunk.js",
+    "static/js/2.70ee96a7.chunk.js.map": "/react-portfolio-app/static/js/2.70ee96a7.chunk.js.map",
+    "index.html": "/react-portfolio-app/index.html",
+    "static/css/main.21be3472.chunk.css.map": "/react-portfolio-app/static/css/main.21be3472.chunk.css.map",
+    "static/js/2.70ee96a7.chunk.js.LICENSE.txt": "/react-portfolio-app/static/js/2.70ee96a7.chunk.js.LICENSE.txt",
+    "static/media/Drink-Library.2180e7b0.png": "/react-portfolio-app/static/media/Drink-Library.2180e7b0.png",
+    "static/media/Pokemon-Battle.e528e14e.png": "/react-portfolio-app/static/media/Pokemon-Battle.e528e14e.png",
+    "static/media/Weather-Dashboard.9fe2ff37.png": "/react-portfolio-app/static/media/Weather-Dashboard.9fe2ff37.png",
+    "static/media/Workday-Scheduler.fd039acb.png": "/react-portfolio-app/static/media/Workday-Scheduler.fd039acb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edb1b1bc.js",
+    "static/js/2.70ee96a7.chunk.js",
+    "static/css/main.21be3472.chunk.css",
+    "static/js/main.90ca00bc.chunk.js"
+  ]
+}
